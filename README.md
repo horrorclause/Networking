@@ -14,3 +14,8 @@ Resources for the Networking module.
 <ul>
   <li><a href="https://jumpcloud.com/blog/defining-byod-cope-cobo-cyod">Difference Between BYOD, COPE, COBO, and CYOD</li>
 </ul>
+
+## :electric_plug: Difference Between 568A and 568B
+ 
+![image](https://user-images.githubusercontent.com/10188810/189536559-10e13c5e-9336-4af7-9e79-c95aa8c48b46.png)
+![image](https://user-images.githubusercontent.com/10188810/189536580-9cec5cbd-10fa-4521-af3d-91c18bc43e77.png)
