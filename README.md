@@ -11,6 +11,19 @@ Resources for the Networking module.
 
 <br />
 
+## :file_folder: Networking Cheat Sheets
+
+<ul>
+  <li><a href="https://packetlife.net/media/library/23/common_ports.pdf">Common Ports</li>
+  <li><a href="https://packetlife.net/media/library/15/IPv4_Subnetting.pdf">IPv4 Subnetting</li>
+  <li><a href="https://packetlife.net/media/library/22/physical_terminations.pdf">Physical Terminations</li>
+  <li><a href="https://packetlife.net/media/library/13/Wireshark_Display_Filters.pdf">Wireshark Filters</li>
+  <li><a href="https://packetlife.net/media/library/12/tcpdump.pdf">Tcpdump Usage</li>
+  <li><a href="https://packetlife.net/library/cheat-sheets/">Additional Cheat Sheets</li>
+</ul>
+
+<br />
+
 ## 📱 Learn More About Device Management
  
 <ul>
