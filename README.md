@@ -38,6 +38,9 @@ Resources for the Networking module.
   <li><a href="https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/">What is the OSI Model?</li>
 </ul>
 
+![image](https://user-images.githubusercontent.com/10188810/190027120-d081aaa1-b790-45c6-8f53-fb31fefd0650.png)
+
+
 ![image](https://user-images.githubusercontent.com/10188810/190020181-6cf796ed-2f98-4639-862f-8dff33fd36d5.png)
 
 <br />
