@@ -19,7 +19,7 @@ Resources for the Networking module.
 
 <br />
 
-## 📱 OSI Model
+## :shipit: OSI Model
 
 <ul>
   <li><a href="https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/">What is the OSI Model?</li>
