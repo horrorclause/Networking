@@ -38,11 +38,11 @@ Resources for the Networking module.
   <li><a href="https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/">What is the OSI Model?</li>
 </ul>
 
+[![image](https://user-images.githubusercontent.com/10188810/190020181-6cf796ed-2f98-4639-862f-8dff33fd36d5.png)](#)
+[![image](https://user-images.githubusercontent.com/10188810/190028995-2cd60f8e-21ae-46b6-9518-cbd6eee7a4ef.png)](#)
+
 <br />
 
-![image](https://user-images.githubusercontent.com/10188810/190020181-6cf796ed-2f98-4639-862f-8dff33fd36d5.png)
-
-<br />
 
 ## :electric_plug: Difference Between 568A and 568B
  
