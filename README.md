@@ -47,6 +47,17 @@ Resources for the Networking module.
 
 <br />
 
+## 🔌 TCP/UDP 
+
+<ul>
+  <li><a href="https://www.guru99.com/tcp-3-way-handshake.html">The 3-Way Handshake</li>
+</ul>
+
+<br />
+
+[![image](https://user-images.githubusercontent.com/10188810/190033380-ad9b3a06-8e32-4d7b-a98b-b15536a202c3.png)](#)
+
+<br />
 
 ## :electric_plug: Difference Between 568A and 568B
  
