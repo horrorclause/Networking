@@ -66,6 +66,19 @@ Resources for the Networking module.
 
 <br />
 
+## :lock: TLS Encryption and HTTPS
+
+<ul>
+  <li><a href="https://www.cloudflare.com/learning/ssl/what-is-asymmetric-encryption/">How is HTTPS Possible?</li>
+  <li><a href="https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/">What Happens in a TLS Handshake?</li>
+</ul>
+
+<br />
+
+[![image](https://user-images.githubusercontent.com/10188810/190039285-0cbbd35d-8c20-45bf-9075-613ab3a20b35.png)](#)
+
+<br />
+
 ## :electric_plug: Difference Between 568A and 568B
  
 ![image](https://user-images.githubusercontent.com/10188810/189536559-10e13c5e-9336-4af7-9e79-c95aa8c48b46.png)
