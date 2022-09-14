@@ -57,6 +57,8 @@ Resources for the Networking module.
 
 [![image](https://user-images.githubusercontent.com/10188810/190033380-ad9b3a06-8e32-4d7b-a98b-b15536a202c3.png)](#)
 
+[![image](https://user-images.githubusercontent.com/10188810/190033553-a7395a92-e35e-4821-9fac-78e1a41cf3e2.png)](#)
+
 <br />
 
 ## :electric_plug: Difference Between 568A and 568B
