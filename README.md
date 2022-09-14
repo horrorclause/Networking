@@ -24,6 +24,10 @@ Resources for the Networking module.
 
 <br />
 
+### Ports
+![image](https://user-images.githubusercontent.com/10188810/190029930-6bff57fb-82c8-44c3-afd4-6d90ec8e2b10.png)
+
+
 ## 📱 Learn More About Device Management
  
 <ul>
