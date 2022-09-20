@@ -37,6 +37,13 @@ Resources for the Networking module.
 
 [![image](https://user-images.githubusercontent.com/10188810/191379188-e65a5bc3-78b0-4803-b757-b6560e768851.png)](#)
 
+### Ip to Bit Converter
+
+<ul>
+  <li><a href="https://codebeautify.org/ip-to-binary-converter">CodeBeautify IP -> Bits</li>
+</ul>
+
+<br />
 
 ## 📱 Learn More About Device Management
  
