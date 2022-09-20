@@ -33,6 +33,11 @@ Resources for the Networking module.
 [![image](https://user-images.githubusercontent.com/10188810/190029930-6bff57fb-82c8-44c3-afd4-6d90ec8e2b10.png)](#)
 
 
+### CIDRs and Subnet Masks
+
+[![image](https://user-images.githubusercontent.com/10188810/191379188-e65a5bc3-78b0-4803-b757-b6560e768851.png)](#)
+
+
 ## 📱 Learn More About Device Management
  
 <ul>
