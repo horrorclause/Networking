@@ -37,6 +37,10 @@ Resources for the Networking module.
 
 [![image](https://user-images.githubusercontent.com/10188810/191379188-e65a5bc3-78b0-4803-b757-b6560e768851.png)](#)
 
+<ul>
+  <li><a href="https://cidr.xyz/">CIDR.xyz - An Interactive IP address and CIDR range visualizer</li>
+</ul>
+
 ### Ip to Bit Converter
 
 <ul>
