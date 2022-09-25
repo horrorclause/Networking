@@ -35,6 +35,10 @@ Resources for the Networking module.
 
 ### CIDRs and Subnet Masks
 
+<ul>
+  <li><a href="https://subnetipv4.com/">Interactive Subnet Practice</li>
+</ul>
+
 [![image](https://user-images.githubusercontent.com/10188810/191379188-e65a5bc3-78b0-4803-b757-b6560e768851.png)](#)
 
 <ul>
